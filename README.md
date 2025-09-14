@@ -17,6 +17,7 @@ This repository contains all tasks, VM setups, and deployment notes from my 16-w
 
 - **[VM3_Testing_Practice](./VM3_Testing_Practice/)**  
 
-- **[Docs](./Docs/)** – common guides (MongoDB, SSL, Linux, Virtualization)
+- **[XCP-ng_BareMetal_Setup](./XCP-ng_BareMetal_Setup/)**  
+  - [XCP-ng Installation](./XCP-ng_BareMetal_Setup/XCP-ng_Installation.md)  
 
----
+- **[Docs](./Docs/)** – common guides (MongoDB, SSL, Linux, Virtualization)
